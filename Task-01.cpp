@@ -24,7 +24,7 @@ int main() // syntax analysis -> check main funtion structure right or wrong
     {
         sum += arr[i];
     }
-
+//1st commit
 
     cout << "Average = " << (double)sum / n << endl; // semantic analysis type casting from int -> double
 
